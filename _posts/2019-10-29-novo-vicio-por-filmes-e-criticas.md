@@ -1,7 +1,6 @@
 ---
 title: Meu novo vício por filmes e críticas
-category: cinema
-tags: [geek, internet, aplicativos]
+tags: []
 ---
 
 Claro que eu sempre gostei de assitir filmes. Desde pequenos nós assistimos filmes. Contudo, recentemente comecei a perceber que a contemplação das obras fora das salas do cinema é tão prazerosa quanto o próprio ato de assistir o filme. Claro que sempre execemos um pouco dessa atividade quando comentamos os filmes com amigos e parentes. Mas ainda assim é um espaço amostral pequeno de sentimentos e sensações sobre os filmes. Depois eu descobri os podcasts, em especial o Nerdcast, um canal de entretenimento que costuma trazer episódios sobre muitos filmes, comentando as obras e fazendo críticas.

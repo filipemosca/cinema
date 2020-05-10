@@ -235,15 +235,15 @@ button { border: none; }
 
 .post-list li h2 a:hover { color: var(--link-color); text-decoration: underline; }
 
-.tag { background-color: #fafa18; padding: 3px 5px 3px 5px; border-radius: 5px; margin-right: 5px; color: var(--font-color); }
+.tag { background-color: #fafa18; padding: 3px 5px 3px 5px; border-radius: 5px; margin-right: 5px; color: var(--font-color); line-height: 1.5; }
 
-.MBE { background-color: #fac9c9; }
+.Sci-Fi { background-color: #fac9c9; }
 
-.Notícias { background-color: #f8f693; }
+.Resenha { background-color: #f8f693; }
 
-.Vivências { background-color: #bff1c2; }
+.Oscar { background-color: #bff1c2; }
 
-.COVID-19 { background-color: #ebe8ff; }
+.Guerra { background-color: #ebe8ff; }
 
 .archive-list li { line-height: 1em; margin-bottom: 5px; }
 
@@ -255,7 +255,7 @@ button { border: none; }
 
 #post-page-info { font-size: 16px; color: gray; margin-top: 1px; text-align: center; }
 
-.post-info { font-size: 16px; color: #969696; margin-top: 5px; margin-bottom: 0; padding-bottom: 0; margin-right: 10px; border-radius: 4px; }
+.post-info { font-size: 16px; color: #969696; margin-top: 5px; margin-bottom: 0; padding-bottom: 0; margin-right: 10px; border-radius: 4px; line-height: 1.5rem; }
 
 .pseudobotao2 { font-size: 16px; text-decoration: none; border-radius: 4px; display: inline-block; margin-right: 2px; color: #969696; margin-bottom: 2px; margin-top: 5px; line-height: 1.2; }
 

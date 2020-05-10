@@ -1,7 +1,6 @@
 ---
 title: Star Wars episódio IX é muito bom!
-category: cinema
-tags: [star wars, critica, sci-fi]
+tags: [Sci-Fi, Resenha]
 ---
 
 Acabei de voltar do cinema e já sentei para escrever o que achei da *A Ascensão Skywalker*. Quero contar quais foram as minhas primeiras impressões logo após asssistir o filme, antes que minha opinião inicial seja afetada ou influenciada por críticas de terceiros.
